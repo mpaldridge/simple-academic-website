@@ -1,0 +1,11 @@
+title: Matthew Aldridge
+email: m.aldridge@leeds.ac.uk
+description: >- # this means to ignore newlines until "baseurl:"
+  The website of Dr Matthew Aldridge,
+  Lecturer in Statistics at the University of Leeds
+baseurl: "/simple-academic-website" # the subpath of your site, probably simply "/"
+url: "https://mpaldridge.github.io" # the base hostname & protocol for your site, probably "https://myusername.github.io"
+twitter_username: mpaldridge
+github_username:  mpaldridge
+
+theme: minima
